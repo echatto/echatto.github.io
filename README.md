@@ -55,3 +55,6 @@ The homepage prioritizes full-stack web development and the project gallery has 
 The MSIM preview uses irreversible opaque redactions. The internal feature documentation and unredacted screenshot are not included. AI extraction is described as a roadmap item, not a verified deployed capability. Confirm permission to publish the enterprise screenshot and summary even after redaction.
 
 The installer preview permanently redacts local asset paths. No setup executable, application files, student records, or credentials are included. Confirm permission to publish the enterprise installer preview and branding.
+
+## Version 5
+Three standalone engineering case studies in `case-studies/`. All links are relative for GitHub Pages. No fabricated performance metrics. Review enterprise screenshot publication permissions before publishing. To update, copy the contents into your existing repository, preserve `.git` and any analytics snippet you added, then `git add .`, commit and push.
